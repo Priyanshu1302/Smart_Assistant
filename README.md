@@ -9,15 +9,6 @@ An AI-powered assistant that reads, understands, and questions research papers o
 - Logic-based question generation and evaluation
 - Justification for every answer
 
-## How to Run
-1. Install dependencies:
-```bash
- python -m pip install -r requirements.txt
-
-2. Run Program 
-```bash
-python -m streamlit run app.py
-
 ## Folder Structure
 
 smart-assistant/
@@ -30,3 +21,15 @@ smart-assistant/
 ├── .env 
 ├── requirements.txt 
 └── README.md 
+
+## How to Run
+
+1. Install dependencies:
+```bash
+ python -m pip install -r requirements.txt
+
+2. Run Program 
+```bash
+python -m streamlit run app.py
+
+
