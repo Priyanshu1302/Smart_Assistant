@@ -17,3 +17,16 @@ An AI-powered assistant that reads, understands, and questions research papers o
 2. Run Program 
 ```bash
 python -m streamlit run app.py
+
+## Folder Structure
+
+smart-assistant/
+├── app.py 
+├── backend/
+│ ├── logic.py
+│ ├── parser.py 
+├── utils/
+│ └── openai_helpers.py 
+├── .env 
+├── requirements.txt 
+└── README.md 
